@@ -9,7 +9,6 @@ This is a simple and responsive blog page built using Bootstrap 5, featuring:
 
 ## Features!
 
-
 - Responsive Design: Built with Bootstrap for seamless display on all screen sizes.
 - Dark Mode: Toggle between light and dark themes using a single button.
 - Dynamic Comment Section: Submit comments without reloading the page using AJAX.
@@ -25,5 +24,6 @@ This is a simple and responsive blog page built using Bootstrap 5, featuring:
   
 ## Demo
 [Demo Screenshot]
-![light_mode](https://github.com/user-attachments/assets/0ebcdddc-eb6d-4959-b586-bb5fdb02f771)
-![dark_mode](https://github.com/user-attachments/assets/cb6f3a8e-ffb4-433a-8d76-0eb2592d9cd1)
+![light_mode]![light_Mode](https://github.com/user-attachments/assets/0af41126-caaf-49bf-9d6f-45ea823256fd)
+![dark_mode]![dark_Mode](https://github.com/user-attachments/assets/4fdae7a5-de4c-45e1-acd6-4ad9df104fc4)
+
